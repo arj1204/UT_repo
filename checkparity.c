@@ -17,7 +17,7 @@ void main()
       printf("the number %d is even parity",n);
    }
    else{
-      printf("the number %d is odd parity",n);
+      printf("this  number %d is odd parity",n);
    }
 }
 
